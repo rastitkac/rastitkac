@@ -1,6 +1,6 @@
 ### Hi there, I'm Rasti 👋
 
-### Find me at :mag_right: :
+### Find me at :mag_right:
 
 [![facebook](https://img.shields.io/badge/facebook-@rastitkac-3b5998)](https://facebook.com/rastitkac)
 
@@ -13,6 +13,8 @@
 [![soundcloud](https://img.shields.io/badge/soundcloud-@rasti--tkac-ff7700)](https://soundcloud.com/rasti-tkac)
 
 [![mixcloud](https://img.shields.io/badge/mixcloud-@rastitkac-52aad8)](https://mixcloud.com/rastitkac)
+
+### My Github Stats :zap:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rastitkac&layout=compact&hide=css,html)
 
