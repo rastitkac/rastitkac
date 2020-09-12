@@ -8,12 +8,6 @@ Find me at :mag_right: :
 [![soundcloud](https://img.shields.io/badge/soundcloud-@rasti--tkac-ff7700)](https://soundcloud.com/rasti-tkac)
 [![mixcloud](https://img.shields.io/badge/mixcloud-@rastitkac-52aad8)](https://mixcloud.com/rastitkac)
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rastitkac&layout=compact&hide=css,html)
 
 ![Rastis's github stats](https://github-readme-stats.vercel.app/api?username=rastitkac&count_private=true&show_icons=true&theme=onedark)
-
-</details>
