@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Rasti 👋
 
-<!--
-**rastitkac/rastitkac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me :mag_right:
 
-Here are some ideas to get you started:
+[![facebook](https://img.shields.io/badge/facebook-@rastitkac-3b5998)](https://facebook.com/rastitkac)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![facebook](https://img.shields.io/badge/facebook-@rastitkacmusic-3b5998)](https://facebook.com/rastitkacmusic)
+
+[![twitter](https://img.shields.io/badge/twitter-@rastitkac-00acee)](https://twitter.com/rastitkac)
+
+[![instagram](https://img.shields.io/badge/instagram-@rastitkac-3f729b)](https://instagram.com/rastitkac)
+
+[![soundcloud](https://img.shields.io/badge/soundcloud-@rasti--tkac-ff7700)](https://soundcloud.com/rasti-tkac)
+
+[![mixcloud](https://img.shields.io/badge/mixcloud-@rastitkac-52aad8)](https://mixcloud.com/rastitkac)
