@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there, I'm Rasti 👋
 
 Find me at :mag_right: :
@@ -11,3 +12,4 @@ Find me at :mag_right: :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rastitkac&layout=compact&hide=css,html)
 
 ![Rastis's github stats](https://github-readme-stats.vercel.app/api?username=rastitkac&count_private=true&show_icons=true&theme=onedark)
+</p>
