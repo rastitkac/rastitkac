@@ -16,5 +16,5 @@
 
 ### My Github Stats :zap:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rastitkac&layout=compact&hide=css,html)
 ![Rastis's github stats](https://github-readme-stats.vercel.app/api?username=rastitkac&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rastitkac&layout=compact&theme=onedark)
